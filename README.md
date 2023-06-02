@@ -7,4 +7,4 @@ Then, you should run BE by your IDE tools. This BE is written by Java.
 
 Finally, you can run FE. This FE is written by ReactJS so to run this FE, open your terminal with the absolute directory of this FE and write command line "npm start" to run it.
 
-Thank you and have good day!
+Thank you and have a good day!
