@@ -1,0 +1,53 @@
+.shopping-cart {
+    top: 200px;
+}
+
+.header-products {
+    top: 0;
+    position: absolute;
+}
+
+.scrollable-content {
+    top: 100px;
+    position: relative;
+    height: 400px;
+    width: 500px;
+    overflow: auto;
+}
+
+.card {
+    height: 600px;
+    width: 400px;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.nike {
+    height: 30px;
+    width: 50px;
+}
+
+.image-quantity, .image-check {
+    height: 15px;
+    width: 15px;
+}
+
+.image-trash {
+    height: 15px;
+    width: 15px;
+}
+
+.img-cart {
+    height: 200px;
+    width: 200px;
+}
+
+.button-quantity {
+    display: inline-block;
+}
+
+.button-trash {
+    margin-left: 50px;
+}
