@@ -3,7 +3,7 @@
 FRONT-END:
 + Basic features done
 + Bugs: add-to-cart button not change to check icon when a product is listed in cart (the solution is I can disable the button when that product is listed on cart and when that product is removed from cart, I can enable it again but I have not figured out yet)
-+ The UX and UI is still bad to me because they are not finished yet and I am not good in FE. Sorry for the inconvenience.
++ The UX and UI are still bad to me because they are not finished yet and I am not good in FE. Sorry for the inconvenience.
 
 GUIDE:
 
